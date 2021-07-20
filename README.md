@@ -1,7 +1,6 @@
-# AppLocker
+# App Locker
 
 ![AppLocker Screenshot](https://i.gyazo.com/5bde758cd495d83b2c7ad167f6278437.png)
-
 
 # Features
  - Toggle applications On/Off, Hiding them from the task bar and alt-tab menu
